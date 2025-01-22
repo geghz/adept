@@ -1,0 +1,737 @@
+{
+    "remark": {
+      "id": 63978,
+      "number": "62/129/6/У",
+      "responsibleVerificationText": null,
+      "responsibleEliminationText": null,
+      "status": {
+        "id": 10,
+        "name": "Отменено",
+        "color": "#EB5757",
+        "order": 4.5,
+        "system": true
+      },
+      "type": "Нарушение технологии строительно-монтажных работ",
+      "category": null,
+      "content": "2) При просмотре рентгеновских снимков первичного контроля по РК. Шифр проекта № 9542.4-ГТНГ-УКПГ-МНГКМ-С33.1-ТТМ. Узел запорной арматуры №3. Стыки: №№ 5/1F, 7F, 33F. На радиографических снимках пятна, полосы, затрудняющие расшифровку.",
+      "comment": null,
+      "arrangement": null,
+      "remarkNatureName": null,
+      "journal_type": null,
+      "completion_date": "2024-10-05T04:26:41+00:00",
+      "author": {
+        "id": 723,
+        "email": "Sausya_PI@irkutskoil.ru",
+        "name": "Сауся П.И.",
+        "fio": null,
+        "phone": null,
+        "role": 14,
+        "active": true,
+        "position": "Шеф-инженер",
+        "division": {
+          "id": 129,
+          "name": "ООО \"ИФ ИнтерГазСервис\"",
+          "organization": {
+            "id": 16,
+            "name": "ООО \"ИФ ИнтерГазСервис\"",
+            "partnerId": 42
+          }
+        },
+        "representative": {
+          "id": 889,
+          "name": "Сауся Павел Игоревич",
+          "fio": "Сауся Павел Игоревич",
+          "position": "Шеф-инженер",
+          "partner": {
+            "id": 42,
+            "name": "ООО \"ИФ ИнтерГазСервис\""
+          },
+          "documentsConfirms": [
+            {
+              "id": 1502,
+              "documentConfirm": "Приказ №0111/00-п/5 от 19.01.2023г.",
+              "number": null,
+              "date": null,
+              "attachments": null
+            },
+            {
+              "id": 7346,
+              "documentConfirm": "Приказ №3229/00-п-229/1 от 12.12.2023г.",
+              "number": null,
+              "date": null,
+              "attachments": null
+            },
+            {
+              "id": 10339,
+              "documentConfirm": "Приказ №3243/00-п/221/1 от 25.12.2024г.",
+              "number": null,
+              "date": null,
+              "attachments": null
+            }
+          ],
+          "user": null,
+          "phone": null
+        },
+        "certificate": null
+      },
+      "authorText": null,
+      "remark_date": "2024-10-03T06:44:00+00:00",
+      "order": null,
+      "eliminator": {
+        "id": 4458,
+        "fio": "Вахитов А.Г.",
+        "numberNationalCertificate": null,
+        "positions": [],
+        "attestationLevel": null,
+        "attestationPlace": null,
+        "name": "Вахитов Айрат Гаязович",
+        "email": "kontrolteh@mail.ru",
+        "position": "Директор лаборатории ООО \"Контроль-технология\"",
+        "phone": null,
+        "education": null,
+        "specialty": null,
+        "special": null,
+        "work_type": null,
+        "nationalRegisterNumber": "",
+        "entry_date": null,
+        "exception_date": null,
+        "personal_stamp_number": null,
+        "certificate_number": null,
+        "passportNumber": null,
+        "passportIssuedBy": null,
+        "passportIssuedDate": null,
+        "address": null,
+        "certificate_begin_date": null,
+        "certificate_job": null,
+        "user": {
+          "id": 2965,
+          "email": "Vakhitov_AG@irkutskoil.ru",
+          "name": "Вахитов А.Г.",
+          "fio": "Вахитов Айрат Гаязович",
+          "phone": null,
+          "role": 17,
+          "active": true,
+          "position": "Директор лаборатории ООО \"Контроль-технология\"",
+          "division": {
+            "id": 408,
+            "name": "ООО \"Контроль-Технология\"",
+            "organization": {
+              "id": 160,
+              "name": "ООО \"Контроль-Технология\"",
+              "partnerId": 296
+            }
+          },
+          "representative": {
+            "id": 4458,
+            "name": "Вахитов Айрат Гаязович",
+            "fio": "Вахитов Айрат Гаязович",
+            "position": "Директор лаборатории ООО \"Контроль-технология\"",
+            "partner": {
+              "id": 296,
+              "name": "ООО \"Контроль-Технология\""
+            },
+            "documentsConfirms": [],
+            "user": null,
+            "phone": null
+          },
+          "certificate": null
+        },
+        "partner": {
+          "id": 296,
+          "FIO": null,
+          "INN": "8603191938",
+          "address": "628609, Ханты-Мансийский Автономный округ - Югра, город Нижневартовск, Индустриальная ул., западный промышленный узел 15 к.а, панель 11",
+          "type": 1,
+          "name": "ООО \"Контроль-Технология\"",
+          "typePartners": 1,
+          "organization": {
+            "id": 160,
+            "name": "ООО \"Контроль-Технология\"",
+            "partnerId": 296
+          },
+          "okpo": "",
+          "order": 10370,
+          "passportNumber": null,
+          "passportIssuedBy": null,
+          "passportIssuedDate": null,
+          "ogrn": "1128603021557",
+          "indexMail": "",
+          "isFolder": false,
+          "phone": "",
+          "sro": "",
+          "sroInn": "",
+          "sroOgrn": "",
+          "uuid": "6419662c-1541-4aba-adf7-20ceaf0b6d37",
+          "region": null,
+          "contractDate": null,
+          "contractNumber": null,
+          "registrationNumber": "",
+          "registrationDate": "2022-10-26T00:00:00+00:00",
+          "logoName": null,
+          "comments": "",
+          "files": [],
+          "email": null,
+          "author": null,
+          "permissions": [],
+          "code": null,
+          "group": null,
+          "organizationType": null,
+          "parentOrganizationCode": null,
+          "status": null,
+          "okopf": null,
+          "shortName": null,
+          "kpp2": null,
+          "oktmo": null,
+          "okfs": null,
+          "okved": null,
+          "code2": null,
+          "kpp": null,
+          "kppSro": null,
+          "organizationPurchasing": null,
+          "purchaseOrganizer": null,
+          "liquidationDate": null,
+          "creationDate": null,
+          "creationAuthor": {
+            "id": 1,
+            "name": "SYSTEM ADMIN",
+            "email": null,
+            "created_at": "2022-07-05 07:17:05",
+            "updated_at": "2024-10-24 19:29:34.797459",
+            "companyID": 1,
+            "login": "system",
+            "deleted": false,
+            "parentID": null,
+            "order": null,
+            "FIO": null,
+            "position": null,
+            "phone": null,
+            "active": true,
+            "roleID": null,
+            "repID": null,
+            "act_edit": false,
+            "active_sc": true,
+            "ldap": false,
+            "settings_ldap_id": null,
+            "language": "ru",
+            "profile_email": null,
+            "uuid": "a6ed3fae-0950-4697-9ea6-c16e37ba1a8f"
+          },
+          "modificationDate": null,
+          "modificationAuthor": null,
+          "name_eng": null,
+          "short_name_eng": null,
+          "registration_authority": null,
+          "eso": null,
+          "eso_date_to": null
+        },
+        "attachments": [],
+        "documentsConfirms": [],
+        "welder": null
+      },
+      "elimination_date": "2024-10-13T12:00:00+00:00",
+      "verificator": {
+        "id": 7720,
+        "fio": "Нахиев Ф.Д.",
+        "numberNationalCertificate": null,
+        "positions": [],
+        "attestationLevel": null,
+        "attestationPlace": null,
+        "name": "Нахиев Фариз Данилович",
+        "email": "fariznakhiev72@mail.ru",
+        "position": "Инженер ИСК (Технический руководитель ЛНК)",
+        "phone": null,
+        "education": null,
+        "specialty": null,
+        "special": null,
+        "work_type": null,
+        "nationalRegisterNumber": null,
+        "entry_date": null,
+        "exception_date": null,
+        "personal_stamp_number": null,
+        "certificate_number": null,
+        "passportNumber": null,
+        "passportIssuedBy": null,
+        "passportIssuedDate": null,
+        "address": null,
+        "certificate_begin_date": null,
+        "certificate_job": null,
+        "user": {
+          "id": 4123,
+          "email": null,
+          "name": "Нахиев Ф.Д.",
+          "fio": "Нахиев Фариз Данилович",
+          "phone": null,
+          "role": 14,
+          "active": true,
+          "position": "Подрядчик",
+          "division": {
+            "id": 129,
+            "name": "ООО \"ИФ ИнтерГазСервис\"",
+            "organization": {
+              "id": 16,
+              "name": "ООО \"ИФ ИнтерГазСервис\"",
+              "partnerId": 42
+            }
+          },
+          "representative": {
+            "id": 7720,
+            "name": "Нахиев Фариз Данилович",
+            "fio": "Нахиев Фариз Данилович",
+            "position": "Инженер ИСК (Технический руководитель ЛНК)",
+            "partner": {
+              "id": 42,
+              "name": "ООО \"ИФ ИнтерГазСервис\""
+            },
+            "documentsConfirms": [
+              {
+                "id": 4997,
+                "documentConfirm": "Приказ №3229/00-п-229/1 от 12.12.2023г.",
+                "number": null,
+                "date": null,
+                "attachments": null
+              },
+              {
+                "id": 10328,
+                "documentConfirm": "Приказ №3243/00-п/221/1 от 25.12.2024г.",
+                "number": null,
+                "date": null,
+                "attachments": null
+              }
+            ],
+            "user": null,
+            "phone": null
+          },
+          "certificate": null
+        },
+        "partner": {
+          "id": 42,
+          "FIO": null,
+          "INN": "5903018022",
+          "address": "Россия, Пермский край, г.Пермь, ул. Монастырская, 41",
+          "type": 1,
+          "name": "ООО \"ИФ ИнтерГазСервис\"",
+          "typePartners": 1,
+          "organization": {
+            "id": 16,
+            "name": "ООО \"ИФ ИнтерГазСервис\"",
+            "partnerId": 42
+          },
+          "okpo": "78892063",
+          "order": 3,
+          "passportNumber": null,
+          "passportIssuedBy": null,
+          "passportIssuedDate": null,
+          "ogrn": "1065903002780",
+          "indexMail": "614000",
+          "isFolder": false,
+          "phone": "(342) 220-63-31; 220-63-32",
+          "sro": "Саморегулируемая организация «Союз строителей Пермского края» (СРО «Союз строителей Пермского края»)",
+          "sroInn": "5904211325",
+          "sroOgrn": "1095900002186",
+          "uuid": "bde78bd7-db1e-4a33-bd55-1831b9079272",
+          "region": null,
+          "contractDate": null,
+          "contractNumber": null,
+          "registrationNumber": "СРО-С-129-21122009",
+          "registrationDate": "2017-06-05T00:00:00+00:00",
+          "logoName": null,
+          "comments": "000020387",
+          "files": [],
+          "email": null,
+          "author": null,
+          "permissions": [],
+          "code": "",
+          "group": null,
+          "organizationType": null,
+          "parentOrganizationCode": null,
+          "status": null,
+          "okopf": null,
+          "shortName": null,
+          "kpp2": null,
+          "oktmo": null,
+          "okfs": null,
+          "okved": null,
+          "code2": null,
+          "kpp": null,
+          "kppSro": null,
+          "organizationPurchasing": null,
+          "purchaseOrganizer": null,
+          "liquidationDate": null,
+          "creationDate": null,
+          "creationAuthor": {
+            "id": 1,
+            "name": "SYSTEM ADMIN",
+            "email": null,
+            "created_at": "2022-07-05 07:17:05",
+            "updated_at": "2024-10-24 19:29:34.797459",
+            "companyID": 1,
+            "login": "system",
+            "deleted": false,
+            "parentID": null,
+            "order": null,
+            "FIO": null,
+            "position": null,
+            "phone": null,
+            "active": true,
+            "roleID": null,
+            "repID": null,
+            "act_edit": false,
+            "active_sc": true,
+            "ldap": false,
+            "settings_ldap_id": null,
+            "language": "ru",
+            "profile_email": null,
+            "uuid": "a6ed3fae-0950-4697-9ea6-c16e37ba1a8f"
+          },
+          "modificationDate": null,
+          "modificationAuthor": null,
+          "name_eng": "",
+          "short_name_eng": null,
+          "registration_authority": null,
+          "eso": null,
+          "eso_date_to": null
+        },
+        "attachments": [],
+        "documentsConfirms": [
+          {
+            "id": 4997,
+            "documentConfirm": "Приказ №3229/00-п-229/1 от 12.12.2023г.",
+            "number": null,
+            "date": null,
+            "attachments": null
+          },
+          {
+            "id": 10328,
+            "documentConfirm": "Приказ №3243/00-п/221/1 от 25.12.2024г.",
+            "number": null,
+            "date": null,
+            "attachments": null
+          }
+        ],
+        "welder": null
+      },
+      "verification_date": null,
+      "eliminator_sign": [
+        {
+          "user": {
+            "id": 2965,
+            "email": "Vakhitov_AG@irkutskoil.ru",
+            "name": "Вахитов А.Г.",
+            "fio": "Вахитов Айрат Гаязович",
+            "phone": null,
+            "role": 17,
+            "active": true,
+            "position": "Директор лаборатории ООО \"Контроль-технология\"",
+            "division": {
+              "id": 408,
+              "name": "ООО \"Контроль-Технология\"",
+              "organization": {
+                "id": 160,
+                "name": "ООО \"Контроль-Технология\"",
+                "partnerId": 296
+              }
+            },
+            "representative": {
+              "id": 4458,
+              "name": "Вахитов Айрат Гаязович",
+              "fio": "Вахитов Айрат Гаязович",
+              "position": "Директор лаборатории ООО \"Контроль-технология\"",
+              "partner": {
+                "id": 296,
+                "name": "ООО \"Контроль-Технология\""
+              },
+              "documentsConfirms": [],
+              "user": null,
+              "phone": null
+            },
+            "certificate": null
+          },
+          "powerOfAttorney": null,
+          "signerInfo": {
+            "name": "Вахитов Айрат Гаязович",
+            "fio": "Вахитов А.Г.",
+            "position": "Директор лаборатории ООО \"Контроль-технология\"",
+            "partner": "ООО \"Контроль-Технология\""
+          },
+          "created": "2024-10-05T04:26:41+00:00",
+          "letter_of_attorney": null,
+          "isSignerLetter": null,
+          "isKcp": false,
+          "isMchd": false,
+          "xmlSignature": null,
+          "numberCertificate": null,
+          "beginCertificate": null,
+          "endCertificate": null
+        }
+      ],
+      "verificator_sign": [],
+      "acceptor_client": null,
+      "acceptor_contractor": null,
+      "client_agreed": null,
+      "client_sign": [],
+      "contractor_sign": [],
+      "client_agreed_sign": [],
+      "images": [],
+      "tech_regs": [
+        {
+          "id": 41493,
+          "article": "РГ.02.36 (ред. 4)",
+          "reg_name": "п. 4.1"
+        }
+      ],
+      "documentations": [],
+      "structure": null,
+      "inspection": null,
+      "jobs": [],
+      "short_works": [],
+      "regulation_documents": [],
+      "regulation_items": [],
+      "remark_category": null,
+      "pnr_category": null,
+      "pnr_structure": null,
+      "audio": [],
+      "pnr_discipline": null,
+      "prescriptions": [
+        {
+          "id": 25195,
+          "number": "62/129/6/У",
+          "type": "warning_possible_stop_cmp",
+          "creationDate": "2024-10-03T06:40:07+00:00"
+        }
+      ],
+      "inspection_type": {
+        "id": 32,
+        "name": "СК",
+        "type": "СК",
+        "inspectionStatus": null,
+        "system": true,
+        "controlType": "SK",
+        "order": 1,
+        "code": null
+      },
+      "renewal_date": null,
+      "renewal_reason": null,
+      "suspense": false,
+      "categoryText": null,
+      "days_delay": null,
+      "pnr_content": null,
+      "pnr_codes": [],
+      "verificatorDateNotify": "2025-01-13T02:47:31+00:00",
+      "eliminatorDateNotify": "2024-10-03T06:44:46+00:00",
+      "object": {
+        "id": 714,
+        "short_name": "Марковское НГКМ. УКПГ (Расширение)",
+        "fullName": "Марковское НГКМ. УКПГ (Расширение)",
+        "address": "Усть-Кутский район Иркутской области. Марковское НГКМ",
+        "code": "МВЗ005254"
+      },
+      "pnrInspection": null,
+      "note": null,
+      "journal": null,
+      "attachmentsCount": 1,
+      "description": null,
+      "revision": null,
+      "shortCounterpartyResponse": null,
+      "shortProjectTeamResponse": null,
+      "ncrCategory": null,
+      "ncrContent": null,
+      "ncrStatus": null,
+      "pnrObjects": [],
+      "tagNumbers": null,
+      "batch": null,
+      "counterpartyResponses": [],
+      "projectTeamResponses": [],
+      "files": [
+        {
+          "id": 14101636,
+          "name": "Уведомление 62.129.6.У ",
+          "extension": "pdf",
+          "description": null,
+          "creationDate": "2025-01-13T03:07:52+00:00",
+          "path": "uploads/documents/object/714/ad4WW9fwcJLmyEZSPmsOkxseuOXO8t83AtRa2kNi.pdf",
+          "order": "555701.8730468800",
+          "badLink": null,
+          "author": null,
+          "versionId": null,
+          "versions": [
+            {
+              "id": 4998290,
+              "number": 1,
+              "comment": null,
+              "path": "uploads/documents/object/714/ad4WW9fwcJLmyEZSPmsOkxseuOXO8t83AtRa2kNi.pdf",
+              "author": null,
+              "creationDate": "2025-01-13T03:06:40+00:00",
+              "approval_result": null,
+              "conversions": null,
+              "downloadStatus": "is_downloaded"
+            }
+          ],
+          "public": false,
+          "parent": null,
+          "fileType": null,
+          "structures": null,
+          "works": [],
+          "worksQtyExamination": [],
+          "documentVersionApprovalResult": null,
+          "isStarted": false,
+          "number": null,
+          "folderId": 0,
+          "history": null,
+          "isDrawing": false,
+          "allowedToDelete": [],
+          "revisionNumber": null,
+          "revisionDate": null,
+          "transferStatus": null,
+          "transferDate": null,
+          "hasStamps": null,
+          "inspections": [],
+          "pnrInspections": [],
+          "mark": null,
+          "isBlocked": false,
+          "nextRevisionDate": null,
+          "revisionStatus": null,
+          "section": null,
+          "phase": null,
+          "complectRd": null,
+          "link": null
+        }
+      ],
+      "eliminatorSupervisorSign": [
+        {
+          "user": {
+            "id": 1367,
+            "email": "fsn@sgi.ltd",
+            "name": "Фарафонов С.Н.",
+            "fio": "Фарафонов Сергей Николаевич",
+            "phone": null,
+            "role": 30,
+            "active": true,
+            "position": "Заместитель руководителя проекта",
+            "division": {
+              "id": 344,
+              "name": "ООО \"СтройГруппИнжиниринг\"",
+              "organization": {
+                "id": 109,
+                "name": "ООО \"СтройГруппИнжиниринг\"",
+                "partnerId": 36
+              }
+            },
+            "representative": {
+              "id": 2550,
+              "name": "Фарафонов Сергей Николаевич",
+              "fio": "Фарафонов Сергей Николаевич",
+              "position": "Заместитель руководителя проекта",
+              "partner": {
+                "id": 36,
+                "name": "ООО \"СтройГруппИнжиниринг\""
+              },
+              "documentsConfirms": [],
+              "user": null,
+              "phone": null
+            },
+            "certificate": null
+          },
+          "powerOfAttorney": null,
+          "signerInfo": {
+            "name": "Фарафонов Сергей Николаевич",
+            "fio": "Фарафонов С.Н.",
+            "position": "Заместитель руководителя проекта",
+            "partner": "ООО \"СтройГруппИнжиниринг\""
+          },
+          "created": "2025-01-13T03:08:10+00:00",
+          "letter_of_attorney": null,
+          "isSignerLetter": null,
+          "isKcp": false,
+          "isMchd": false,
+          "xmlSignature": null,
+          "numberCertificate": null,
+          "beginCertificate": null,
+          "endCertificate": null
+        }
+      ],
+      "eliminatorSupervisor": null,
+      "responsibleEliminationSign": [],
+      "responsibleElimination": null,
+      "responsibleVerificationSign": [
+        {
+          "user": {
+            "id": 4123,
+            "email": null,
+            "name": "Нахиев Ф.Д.",
+            "fio": "Нахиев Фариз Данилович",
+            "phone": null,
+            "role": 14,
+            "active": true,
+            "position": "Подрядчик",
+            "division": {
+              "id": 129,
+              "name": "ООО \"ИФ ИнтерГазСервис\"",
+              "organization": {
+                "id": 16,
+                "name": "ООО \"ИФ ИнтерГазСервис\"",
+                "partnerId": 42
+              }
+            },
+            "representative": {
+              "id": 7720,
+              "name": "Нахиев Фариз Данилович",
+              "fio": "Нахиев Фариз Данилович",
+              "position": "Инженер ИСК (Технический руководитель ЛНК)",
+              "partner": {
+                "id": 42,
+                "name": "ООО \"ИФ ИнтерГазСервис\""
+              },
+              "documentsConfirms": [
+                {
+                  "id": 4997,
+                  "documentConfirm": "Приказ №3229/00-п-229/1 от 12.12.2023г.",
+                  "number": null,
+                  "date": null,
+                  "attachments": null
+                },
+                {
+                  "id": 10328,
+                  "documentConfirm": "Приказ №3243/00-п/221/1 от 25.12.2024г.",
+                  "number": null,
+                  "date": null,
+                  "attachments": null
+                }
+              ],
+              "user": null,
+              "phone": null
+            },
+            "certificate": null
+          },
+          "powerOfAttorney": null,
+          "signerInfo": {
+            "name": "Нахиев Фариз Данилович",
+            "fio": "Нахиев Ф.Д.",
+            "position": "Инженер ИСК (Технический руководитель ЛНК)",
+            "partner": "ООО \"ИФ ИнтерГазСервис\""
+          },
+          "created": "2025-01-13T06:39:58+00:00",
+          "letter_of_attorney": null,
+          "isSignerLetter": null,
+          "isKcp": false,
+          "isMchd": false,
+          "xmlSignature": null,
+          "numberCertificate": null,
+          "beginCertificate": null,
+          "endCertificate": null
+        }
+      ],
+      "responsibleVerification": null,
+      "responsibleEliminationRejectedDate": null,
+      "responsibleVerificationRejectedDate": "2025-01-13T06:38:43+00:00",
+      "responsibleEliminationDateNotify": null,
+      "responsibleVerificationDateNotify": null,
+      "eliminatorSupervisorRejectedDate": null,
+      "eliminatorSupervisorDateNotify": null,
+      "eliminationNote": null
+    },
+    "auth_user_participant_related_inspection": false,
+    "siblings": [
+      63977,
+      64257
+    ]
+  }
