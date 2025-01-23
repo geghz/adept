@@ -1,0 +1,438 @@
+{
+    "agreements": [
+        {
+            "id": 954233,
+            "parts": [
+                {
+                    "id": 108429,
+                    "responsible": {
+                        "id": 8652,
+                        "fio": "Гриднев А. Ф.",
+                        "numberNationalCertificate": null,
+                        "positions": [],
+                        "attestationLevel": null,
+                        "attestationPlace": null,
+                        "name": "Гриднев Алексей Фёдорович",
+                        "email": "jarptica-08@mail.ru",
+                        "position": "Инженер ИСК",
+                        "phone": "None",
+                        "education": null,
+                        "specialty": null,
+                        "special": null,
+                        "work_type": null,
+                        "nationalRegisterNumber": null,
+                        "entry_date": "2023-11-02T00:00:00+00:00",
+                        "exception_date": null,
+                        "personal_stamp_number": null,
+                        "certificate_number": null,
+                        "passportNumber": null,
+                        "passportIssuedBy": null,
+                        "passportIssuedDate": null,
+                        "address": null,
+                        "certificate_begin_date": null,
+                        "certificate_job": null,
+                        "user": {
+                            "id": 4951,
+                            "email": "jarptica-08@mail.ru",
+                            "name": "Гриднев А. Ф.",
+                            "fio": "Гриднев Алексей Фёдорович",
+                            "phone": null,
+                            "role": 14,
+                            "active": true,
+                            "position": "Инженер ИСК",
+                            "division": {
+                                "id": 129,
+                                "name": "ООО \"ИФ ИнтерГазСервис\"",
+                                "organization": {
+                                    "id": 16,
+                                    "name": "ООО \"ИФ ИнтерГазСервис\"",
+                                    "partnerId": 42
+                                }
+                            },
+                            "representative": {
+                                "id": 8652,
+                                "name": "Гриднев Алексей Фёдорович",
+                                "fio": "Гриднев Алексей Фёдорович",
+                                "position": "Инженер ИСК",
+                                "partner": {
+                                    "id": 42,
+                                    "name": "ООО \"ИФ ИнтерГазСервис\""
+                                },
+                                "documentsConfirms": [
+                                    {
+                                        "id": 6578,
+                                        "documentConfirm": "Приказ №3229/00-п-229/1 от 12.12.2023 г.",
+                                        "number": null,
+                                        "date": null,
+                                        "attachments": null
+                                    },
+                                    {
+                                        "id": 10038,
+                                        "documentConfirm": "Приказ № 3229/00-п-229/1 от 12.12.2023 г.",
+                                        "number": null,
+                                        "date": null,
+                                        "attachments": null
+                                    },
+                                    {
+                                        "id": 10302,
+                                        "documentConfirm": "Приказ №3243/00-п/221/1 от 25.12.2024г.",
+                                        "number": null,
+                                        "date": null,
+                                        "attachments": null
+                                    }
+                                ],
+                                "user": null,
+                                "phone": "None"
+                            },
+                            "certificate": null
+                        },
+                        "partner": {
+                            "id": 42,
+                            "FIO": null,
+                            "INN": "5903018022",
+                            "address": "Россия, Пермский край, г.Пермь, ул. Монастырская, 41",
+                            "type": 1,
+                            "name": "ООО \"ИФ ИнтерГазСервис\"",
+                            "typePartners": 1,
+                            "organization": {
+                                "id": 16,
+                                "name": "ООО \"ИФ ИнтерГазСервис\"",
+                                "partnerId": 42
+                            },
+                            "okpo": "78892063",
+                            "order": 3,
+                            "passportNumber": null,
+                            "passportIssuedBy": null,
+                            "passportIssuedDate": null,
+                            "ogrn": "1065903002780",
+                            "indexMail": "614000",
+                            "isFolder": false,
+                            "phone": "(342) 220-63-31; 220-63-32",
+                            "sro": "Саморегулируемая организация «Союз строителей Пермского края» (СРО «Союз строителей Пермского края»)",
+                            "sroInn": "5904211325",
+                            "sroOgrn": "1095900002186",
+                            "uuid": "bde78bd7-db1e-4a33-bd55-1831b9079272",
+                            "region": null,
+                            "contractDate": null,
+                            "contractNumber": null,
+                            "registrationNumber": "СРО-С-129-21122009",
+                            "registrationDate": "2017-06-05T00:00:00+00:00",
+                            "logoName": null,
+                            "comments": "000020387",
+                            "files": [],
+                            "email": null,
+                            "author": null,
+                            "permissions": [],
+                            "code": "",
+                            "group": null,
+                            "organizationType": null,
+                            "parentOrganizationCode": null,
+                            "status": null,
+                            "okopf": null,
+                            "shortName": null,
+                            "kpp2": null,
+                            "oktmo": null,
+                            "okfs": null,
+                            "okved": null,
+                            "code2": null,
+                            "kpp": null,
+                            "kppSro": null,
+                            "organizationPurchasing": null,
+                            "purchaseOrganizer": null,
+                            "liquidationDate": null,
+                            "creationDate": null,
+                            "creationAuthor": {
+                                "id": 1,
+                                "name": "SYSTEM ADMIN",
+                                "email": null,
+                                "created_at": "2022-07-05 07:17:05",
+                                "updated_at": "2024-10-24 19:29:34.797459",
+                                "companyID": 1,
+                                "login": "system",
+                                "deleted": false,
+                                "parentID": null,
+                                "order": null,
+                                "FIO": null,
+                                "position": null,
+                                "phone": null,
+                                "active": true,
+                                "roleID": null,
+                                "repID": null,
+                                "act_edit": false,
+                                "active_sc": true,
+                                "ldap": false,
+                                "settings_ldap_id": null,
+                                "language": "ru",
+                                "profile_email": null,
+                                "uuid": "a6ed3fae-0950-4697-9ea6-c16e37ba1a8f"
+                            },
+                            "modificationDate": null,
+                            "modificationAuthor": null,
+                            "name_eng": "",
+                            "short_name_eng": null,
+                            "registration_authority": null,
+                            "eso": null,
+                            "eso_date_to": null
+                        },
+                        "attachments": [],
+                        "documentsConfirms": [
+                            {
+                                "id": 6578,
+                                "documentConfirm": "Приказ №3229/00-п-229/1 от 12.12.2023 г.",
+                                "number": null,
+                                "date": null,
+                                "attachments": null
+                            },
+                            {
+                                "id": 10038,
+                                "documentConfirm": "Приказ № 3229/00-п-229/1 от 12.12.2023 г.",
+                                "number": null,
+                                "date": null,
+                                "attachments": null
+                            },
+                            {
+                                "id": 10302,
+                                "documentConfirm": "Приказ №3243/00-п/221/1 от 25.12.2024г.",
+                                "number": null,
+                                "date": null,
+                                "attachments": null
+                            }
+                        ],
+                        "welder": null
+                    },
+                    "files": [
+                        {
+                            "id": 14107170,
+                            "name": "Установка временных ограждающих сооружений",
+                            "extension": "txt",
+                            "description": null,
+                            "creationDate": "2025-01-16T11:34:52+00:00",
+                            "path": "uploads/documents/object/749/ZP4c68WLgxIrSXMGLqqc1Yy5vWgnMR2Hr7CL2S1z.txt",
+                            "order": "557005.6230468800",
+                            "badLink": null,
+                            "author": null,
+                            "versionId": null,
+                            "versions": [
+                                {
+                                    "id": 5003930,
+                                    "number": 1,
+                                    "comment": null,
+                                    "path": "uploads/documents/object/749/ZP4c68WLgxIrSXMGLqqc1Yy5vWgnMR2Hr7CL2S1z.txt",
+                                    "author": null,
+                                    "creationDate": "2025-01-16T11:33:35+00:00",
+                                    "approval_result": null,
+                                    "conversions": null,
+                                    "downloadStatus": "is_downloaded"
+                                }
+                            ],
+                            "public": false,
+                            "parent": null,
+                            "fileType": null,
+                            "structures": null,
+                            "works": [],
+                            "worksQtyExamination": [],
+                            "documentVersionApprovalResult": null,
+                            "isStarted": false,
+                            "number": null,
+                            "folderId": 0,
+                            "history": null,
+                            "isDrawing": false,
+                            "allowedToDelete": [],
+                            "revisionNumber": null,
+                            "revisionDate": null,
+                            "transferStatus": null,
+                            "transferDate": null,
+                            "hasStamps": null,
+                            "inspections": [],
+                            "pnrInspections": [],
+                            "mark": null,
+                            "isBlocked": false,
+                            "nextRevisionDate": null,
+                            "revisionStatus": null,
+                            "section": null,
+                            "phase": null,
+                            "complectRd": null,
+                            "link": null
+                        },
+                        {
+                            "id": 14107171,
+                            "name": "Установка временных ограждающих сооружений",
+                            "extension": "txt",
+                            "description": null,
+                            "creationDate": "2025-01-16T11:35:10+00:00",
+                            "path": "uploads/documents/object/749/158454/gFDH4dJDhK2l5HGaocpRuVJTEgdAwXlplaBkKL4w.txt",
+                            "order": "557005.6230468800",
+                            "badLink": null,
+                            "author": null,
+                            "versionId": null,
+                            "versions": [
+                                {
+                                    "id": 5003931,
+                                    "number": 1,
+                                    "comment": null,
+                                    "path": "uploads/documents/object/749/158454/gFDH4dJDhK2l5HGaocpRuVJTEgdAwXlplaBkKL4w.txt",
+                                    "author": null,
+                                    "creationDate": "2025-01-16T11:33:53+00:00",
+                                    "approval_result": null,
+                                    "conversions": null,
+                                    "downloadStatus": "is_downloaded"
+                                }
+                            ],
+                            "public": true,
+                            "parent": null,
+                            "fileType": null,
+                            "structures": null,
+                            "works": [],
+                            "worksQtyExamination": [],
+                            "documentVersionApprovalResult": null,
+                            "isStarted": false,
+                            "number": "1690",
+                            "folderId": 158454,
+                            "history": null,
+                            "isDrawing": false,
+                            "allowedToDelete": [],
+                            "revisionNumber": null,
+                            "revisionDate": null,
+                            "transferStatus": null,
+                            "transferDate": null,
+                            "hasStamps": null,
+                            "inspections": [],
+                            "pnrInspections": [],
+                            "mark": null,
+                            "isBlocked": false,
+                            "nextRevisionDate": null,
+                            "revisionStatus": null,
+                            "section": null,
+                            "phase": null,
+                            "complectRd": null,
+                            "link": null
+                        }
+                    ],
+                    "is_notified": false,
+                    "notification_date": "16.01.2025 02:14",
+                    "result_datetime": "2025-01-16T11:36:01+00:00",
+                    "comment": "стр.4, раздел 2.2., пункт 3. Расписать меры по ограждению и предупреждению опасной и рабочей зоны ПС.",
+                    "responsible_sign": [
+                        {
+                            "user": {
+                                "id": 2908,
+                                "email": "Rinkus_AN@irkutskoil.ru",
+                                "name": "Ринкус А.Н.",
+                                "fio": null,
+                                "phone": null,
+                                "role": 14,
+                                "active": true,
+                                "position": "Инженер СК",
+                                "division": {
+                                    "id": 129,
+                                    "name": "ООО \"ИФ ИнтерГазСервис\"",
+                                    "organization": {
+                                        "id": 16,
+                                        "name": "ООО \"ИФ ИнтерГазСервис\"",
+                                        "partnerId": 42
+                                    }
+                                },
+                                "representative": {
+                                    "id": 4580,
+                                    "name": "Ринкус Александр Николаевич",
+                                    "fio": "Ринкус Александр Николаевич",
+                                    "position": "Инженер ИСК",
+                                    "partner": {
+                                        "id": 42,
+                                        "name": "ООО \"ИФ ИнтерГазСервис\""
+                                    },
+                                    "documentsConfirms": [
+                                        {
+                                            "id": 1541,
+                                            "documentConfirm": "Приказ №0111/00-п/5 от 19.01.2023г.",
+                                            "number": null,
+                                            "date": null,
+                                            "attachments": null
+                                        },
+                                        {
+                                            "id": 1853,
+                                            "documentConfirm": "Приказ №0039/00-п/11 от 10.03.2022г",
+                                            "number": null,
+                                            "date": null,
+                                            "attachments": null
+                                        },
+                                        {
+                                            "id": 7344,
+                                            "documentConfirm": "Приказ №3229/00-п-229/1 от 12.12.2023г.",
+                                            "number": null,
+                                            "date": null,
+                                            "attachments": null
+                                        },
+                                        {
+                                            "id": 10336,
+                                            "documentConfirm": "Приказ №3243/00-п/221/1 от 25.12.2024г.",
+                                            "number": null,
+                                            "date": null,
+                                            "attachments": null
+                                        }
+                                    ],
+                                    "user": null,
+                                    "phone": null
+                                },
+                                "certificate": null
+                            },
+                            "powerOfAttorney": null,
+                            "signerInfo": {
+                                "name": "Ринкус Александр Николаевич",
+                                "fio": "Ринкус А.Н.",
+                                "position": "Инженер ИСК",
+                                "partner": "ООО \"ИФ ИнтерГазСервис\""
+                            },
+                            "created": "2025-01-16T11:36:01+00:00",
+                            "letter_of_attorney": "Приказ №3243/00-п/221/1 от 25.12.2024г.",
+                            "isSignerLetter": null,
+                            "isKcp": false,
+                            "isMchd": false,
+                            "xmlSignature": null,
+                            "numberCertificate": null,
+                            "beginCertificate": null,
+                            "endCertificate": null
+                        }
+                    ],
+                    "position": null,
+                    "order": 799,
+                    "approval_result": {
+                        "id": 22,
+                        "name": "Не согласовано",
+                        "color": "#FF0000",
+                        "order": 10.5,
+                        "system": true,
+                        "typeId": "disagreed"
+                    },
+                    "status": "created",
+                    "caption_header": null
+                }
+            ],
+            "order": 1,
+            "is_started": false,
+            "version_id": 5002335,
+            "approval_result": {
+                "id": 22,
+                "name": "Не согласовано",
+                "color": "#FF0000",
+                "order": 10.5,
+                "system": true,
+                "typeId": "disagreed"
+            },
+            "document_version_approval_result": {
+                "id": 22,
+                "name": "Не согласовано",
+                "color": "#FF0000",
+                "order": 10.5,
+                "system": true,
+                "typeId": "disagreed"
+            },
+            "status": "disagreed",
+            "stage": "active",
+            "captionHeader": null,
+            "createdAt": "2025-01-16T02:13:41+00:00",
+            "updatedAt": "2025-01-16T11:36:02+00:00"
+        }
+    ],
+    "isStarted": false
+}

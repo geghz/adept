@@ -1,0 +1,1019 @@
+{
+    "agreements": [
+        {
+            "id": 953485,
+            "parts": [
+                {
+                    "id": 107441,
+                    "responsible": {
+                        "id": 2373,
+                        "fio": "Зинкевич С.П.",
+                        "numberNationalCertificate": null,
+                        "positions": [],
+                        "attestationLevel": null,
+                        "attestationPlace": null,
+                        "name": "Зинкевич Сергей Петрович",
+                        "email": "zsp@rasales.ru",
+                        "position": "Генеральный директор",
+                        "phone": null,
+                        "education": null,
+                        "specialty": null,
+                        "special": null,
+                        "work_type": null,
+                        "nationalRegisterNumber": null,
+                        "entry_date": null,
+                        "exception_date": null,
+                        "personal_stamp_number": null,
+                        "certificate_number": null,
+                        "passportNumber": null,
+                        "passportIssuedBy": null,
+                        "passportIssuedDate": null,
+                        "address": null,
+                        "certificate_begin_date": null,
+                        "certificate_job": null,
+                        "user": {
+                            "id": 1210,
+                            "email": "Zinkevich_SP@irkutskoil.ru",
+                            "name": "Зинкевич С.П.",
+                            "fio": null,
+                            "phone": null,
+                            "role": 12,
+                            "active": true,
+                            "position": "Генеральный директор",
+                            "division": {
+                                "id": 331,
+                                "name": "ООО \"РАСАЛЕС\"",
+                                "organization": {
+                                    "id": 97,
+                                    "name": "ООО \"РАСАЛЕС\"",
+                                    "partnerId": 220
+                                }
+                            },
+                            "representative": {
+                                "id": 2373,
+                                "name": "Зинкевич Сергей Петрович",
+                                "fio": "Зинкевич Сергей Петрович",
+                                "position": "Генеральный директор",
+                                "partner": {
+                                    "id": 220,
+                                    "name": "ООО \"РАСАЛЕС\""
+                                },
+                                "documentsConfirms": [],
+                                "user": null,
+                                "phone": null
+                            },
+                            "certificate": null
+                        },
+                        "partner": {
+                            "id": 220,
+                            "FIO": null,
+                            "INN": "3811449219",
+                            "address": "Россия, Иркутская область, г. Иркутск, ул. Главная Кировская, д. 47/7, офис 212",
+                            "type": 1,
+                            "name": "ООО \"РАСАЛЕС\"",
+                            "typePartners": 1,
+                            "organization": {
+                                "id": 97,
+                                "name": "ООО \"РАСАЛЕС\"",
+                                "partnerId": 220
+                            },
+                            "okpo": "",
+                            "order": 236,
+                            "passportNumber": null,
+                            "passportIssuedBy": null,
+                            "passportIssuedDate": null,
+                            "ogrn": "1173850033830",
+                            "indexMail": "664024",
+                            "isFolder": false,
+                            "phone": "+7 (3952) 486559",
+                            "sro": "Ассоциация строителей «Саморегулируемая организация «ДОРСТРОЙ»",
+                            "sroInn": "7810331525",
+                            "sroOgrn": "1097800004631",
+                            "uuid": "031f5601-55b4-4478-969a-b38abefb01dc",
+                            "region": null,
+                            "contractDate": null,
+                            "contractNumber": null,
+                            "registrationNumber": "СРО-С-141-23122009",
+                            "registrationDate": "2020-06-08T00:00:00+00:00",
+                            "logoName": null,
+                            "comments": "000041670",
+                            "files": [],
+                            "email": null,
+                            "author": null,
+                            "permissions": [],
+                            "code": null,
+                            "group": null,
+                            "organizationType": null,
+                            "parentOrganizationCode": null,
+                            "status": null,
+                            "okopf": null,
+                            "shortName": null,
+                            "kpp2": null,
+                            "oktmo": null,
+                            "okfs": null,
+                            "okved": null,
+                            "code2": null,
+                            "kpp": null,
+                            "kppSro": null,
+                            "organizationPurchasing": null,
+                            "purchaseOrganizer": null,
+                            "liquidationDate": null,
+                            "creationDate": null,
+                            "creationAuthor": {
+                                "id": 1,
+                                "name": "SYSTEM ADMIN",
+                                "email": null,
+                                "created_at": "2022-07-05 07:17:05",
+                                "updated_at": "2024-10-24 19:29:34.797459",
+                                "companyID": 1,
+                                "login": "system",
+                                "deleted": false,
+                                "parentID": null,
+                                "order": null,
+                                "FIO": null,
+                                "position": null,
+                                "phone": null,
+                                "active": true,
+                                "roleID": null,
+                                "repID": null,
+                                "act_edit": false,
+                                "active_sc": true,
+                                "ldap": false,
+                                "settings_ldap_id": null,
+                                "language": "ru",
+                                "profile_email": null,
+                                "uuid": "a6ed3fae-0950-4697-9ea6-c16e37ba1a8f"
+                            },
+                            "modificationDate": null,
+                            "modificationAuthor": null,
+                            "name_eng": null,
+                            "short_name_eng": null,
+                            "registration_authority": null,
+                            "eso": null,
+                            "eso_date_to": null
+                        },
+                        "attachments": [],
+                        "documentsConfirms": [],
+                        "welder": null
+                    },
+                    "files": [],
+                    "is_notified": false,
+                    "notification_date": "27.12.2024 06:43",
+                    "result_datetime": "2024-12-27T06:45:55+00:00",
+                    "comment": null,
+                    "responsible_sign": [
+                        {
+                            "user": {
+                                "id": 1210,
+                                "email": "Zinkevich_SP@irkutskoil.ru",
+                                "name": "Зинкевич С.П.",
+                                "fio": null,
+                                "phone": null,
+                                "role": 12,
+                                "active": true,
+                                "position": "Генеральный директор",
+                                "division": {
+                                    "id": 331,
+                                    "name": "ООО \"РАСАЛЕС\"",
+                                    "organization": {
+                                        "id": 97,
+                                        "name": "ООО \"РАСАЛЕС\"",
+                                        "partnerId": 220
+                                    }
+                                },
+                                "representative": {
+                                    "id": 2373,
+                                    "name": "Зинкевич Сергей Петрович",
+                                    "fio": "Зинкевич Сергей Петрович",
+                                    "position": "Генеральный директор",
+                                    "partner": {
+                                        "id": 220,
+                                        "name": "ООО \"РАСАЛЕС\""
+                                    },
+                                    "documentsConfirms": [],
+                                    "user": null,
+                                    "phone": null
+                                },
+                                "certificate": null
+                            },
+                            "powerOfAttorney": null,
+                            "signerInfo": {
+                                "name": "Зинкевич Сергей Петрович",
+                                "fio": "Зинкевич С.П.",
+                                "position": "Генеральный директор",
+                                "partner": "ООО \"РАСАЛЕС\""
+                            },
+                            "created": "2024-12-27T06:45:55+00:00",
+                            "letter_of_attorney": null,
+                            "isSignerLetter": null,
+                            "isKcp": true,
+                            "isMchd": false,
+                            "xmlSignature": null,
+                            "numberCertificate": null,
+                            "beginCertificate": null,
+                            "endCertificate": null
+                        }
+                    ],
+                    "position": null,
+                    "order": 1656,
+                    "approval_result": {
+                        "id": 20,
+                        "name": "Согласовано",
+                        "color": "#219653",
+                        "order": 9.5,
+                        "system": true,
+                        "typeId": "agreed"
+                    },
+                    "status": "created",
+                    "caption_header": null
+                }
+            ],
+            "order": 1,
+            "is_started": false,
+            "version_id": 4907054,
+            "approval_result": {
+                "id": 20,
+                "name": "Согласовано",
+                "color": "#219653",
+                "order": 9.5,
+                "system": true,
+                "typeId": "agreed"
+            },
+            "document_version_approval_result": {
+                "id": 19,
+                "name": "Оповещение",
+                "color": "#00B0F0",
+                "order": 9,
+                "system": true,
+                "typeId": "notification"
+            },
+            "status": "agreed",
+            "stage": "active",
+            "captionHeader": null,
+            "createdAt": "2024-12-27T06:40:34+00:00",
+            "updatedAt": "2024-12-27T06:45:55+00:00"
+        },
+        {
+            "id": 953486,
+            "parts": [
+                {
+                    "id": 107443,
+                    "responsible": {
+                        "id": 4716,
+                        "fio": "Евсеев Н.Л.",
+                        "numberNationalCertificate": null,
+                        "positions": [],
+                        "attestationLevel": null,
+                        "attestationPlace": null,
+                        "name": "Евсеев Николай Леонидович",
+                        "email": "evseevnl@yandex.ru",
+                        "position": "Инженер СК",
+                        "phone": null,
+                        "education": null,
+                        "specialty": null,
+                        "special": null,
+                        "work_type": null,
+                        "nationalRegisterNumber": "",
+                        "entry_date": null,
+                        "exception_date": null,
+                        "personal_stamp_number": null,
+                        "certificate_number": null,
+                        "passportNumber": null,
+                        "passportIssuedBy": null,
+                        "passportIssuedDate": null,
+                        "address": null,
+                        "certificate_begin_date": null,
+                        "certificate_job": null,
+                        "user": {
+                            "id": 3005,
+                            "email": "Evseev_NL@irkutskoil.ru",
+                            "name": "Евсеев Н.Л.",
+                            "fio": null,
+                            "phone": null,
+                            "role": 14,
+                            "active": true,
+                            "position": "Инженер СК",
+                            "division": {
+                                "id": 131,
+                                "name": "инженер СК",
+                                "organization": {
+                                    "id": 16,
+                                    "name": "ООО \"ИФ ИнтерГазСервис\"",
+                                    "partnerId": 42
+                                }
+                            },
+                            "representative": {
+                                "id": 4716,
+                                "name": "Евсеев Николай Леонидович",
+                                "fio": "Евсеев Николай Леонидович",
+                                "position": "Инженер СК",
+                                "partner": {
+                                    "id": 42,
+                                    "name": "ООО \"ИФ ИнтерГазСервис\""
+                                },
+                                "documentsConfirms": [
+                                    {
+                                        "id": 1540,
+                                        "documentConfirm": "Приказ №0111/00-п/5 от 19.01.2023г.",
+                                        "number": null,
+                                        "date": null,
+                                        "attachments": null
+                                    },
+                                    {
+                                        "id": 7107,
+                                        "documentConfirm": "Приказ №3229-00-п от 12.12.2023г.",
+                                        "number": null,
+                                        "date": null,
+                                        "attachments": null
+                                    },
+                                    {
+                                        "id": 10306,
+                                        "documentConfirm": "Приказ №3243/00-п/221/1 от 25.12.2024г.",
+                                        "number": null,
+                                        "date": null,
+                                        "attachments": null
+                                    }
+                                ],
+                                "user": null,
+                                "phone": null
+                            },
+                            "certificate": null
+                        },
+                        "partner": {
+                            "id": 42,
+                            "FIO": null,
+                            "INN": "5903018022",
+                            "address": "Россия, Пермский край, г.Пермь, ул. Монастырская, 41",
+                            "type": 1,
+                            "name": "ООО \"ИФ ИнтерГазСервис\"",
+                            "typePartners": 1,
+                            "organization": {
+                                "id": 16,
+                                "name": "ООО \"ИФ ИнтерГазСервис\"",
+                                "partnerId": 42
+                            },
+                            "okpo": "78892063",
+                            "order": 3,
+                            "passportNumber": null,
+                            "passportIssuedBy": null,
+                            "passportIssuedDate": null,
+                            "ogrn": "1065903002780",
+                            "indexMail": "614000",
+                            "isFolder": false,
+                            "phone": "(342) 220-63-31; 220-63-32",
+                            "sro": "Саморегулируемая организация «Союз строителей Пермского края» (СРО «Союз строителей Пермского края»)",
+                            "sroInn": "5904211325",
+                            "sroOgrn": "1095900002186",
+                            "uuid": "bde78bd7-db1e-4a33-bd55-1831b9079272",
+                            "region": null,
+                            "contractDate": null,
+                            "contractNumber": null,
+                            "registrationNumber": "СРО-С-129-21122009",
+                            "registrationDate": "2017-06-05T00:00:00+00:00",
+                            "logoName": null,
+                            "comments": "000020387",
+                            "files": [],
+                            "email": null,
+                            "author": null,
+                            "permissions": [],
+                            "code": "",
+                            "group": null,
+                            "organizationType": null,
+                            "parentOrganizationCode": null,
+                            "status": null,
+                            "okopf": null,
+                            "shortName": null,
+                            "kpp2": null,
+                            "oktmo": null,
+                            "okfs": null,
+                            "okved": null,
+                            "code2": null,
+                            "kpp": null,
+                            "kppSro": null,
+                            "organizationPurchasing": null,
+                            "purchaseOrganizer": null,
+                            "liquidationDate": null,
+                            "creationDate": null,
+                            "creationAuthor": {
+                                "id": 1,
+                                "name": "SYSTEM ADMIN",
+                                "email": null,
+                                "created_at": "2022-07-05 07:17:05",
+                                "updated_at": "2024-10-24 19:29:34.797459",
+                                "companyID": 1,
+                                "login": "system",
+                                "deleted": false,
+                                "parentID": null,
+                                "order": null,
+                                "FIO": null,
+                                "position": null,
+                                "phone": null,
+                                "active": true,
+                                "roleID": null,
+                                "repID": null,
+                                "act_edit": false,
+                                "active_sc": true,
+                                "ldap": false,
+                                "settings_ldap_id": null,
+                                "language": "ru",
+                                "profile_email": null,
+                                "uuid": "a6ed3fae-0950-4697-9ea6-c16e37ba1a8f"
+                            },
+                            "modificationDate": null,
+                            "modificationAuthor": null,
+                            "name_eng": "",
+                            "short_name_eng": null,
+                            "registration_authority": null,
+                            "eso": null,
+                            "eso_date_to": null
+                        },
+                        "attachments": [
+                            {
+                                "id": 267,
+                                "name": "Приказ №0111.00-п.5 от 19.01.2023г..pdf"
+                            }
+                        ],
+                        "documentsConfirms": [
+                            {
+                                "id": 1540,
+                                "documentConfirm": "Приказ №0111/00-п/5 от 19.01.2023г.",
+                                "number": null,
+                                "date": null,
+                                "attachments": null
+                            },
+                            {
+                                "id": 7107,
+                                "documentConfirm": "Приказ №3229-00-п от 12.12.2023г.",
+                                "number": null,
+                                "date": null,
+                                "attachments": null
+                            },
+                            {
+                                "id": 10306,
+                                "documentConfirm": "Приказ №3243/00-п/221/1 от 25.12.2024г.",
+                                "number": null,
+                                "date": null,
+                                "attachments": null
+                            }
+                        ],
+                        "welder": null
+                    },
+                    "files": [],
+                    "is_notified": false,
+                    "notification_date": "27.12.2024 06:45",
+                    "result_datetime": "2024-12-27T07:22:13+00:00",
+                    "comment": null,
+                    "responsible_sign": [
+                        {
+                            "user": {
+                                "id": 3005,
+                                "email": "Evseev_NL@irkutskoil.ru",
+                                "name": "Евсеев Н.Л.",
+                                "fio": null,
+                                "phone": null,
+                                "role": 14,
+                                "active": true,
+                                "position": "Инженер СК",
+                                "division": {
+                                    "id": 131,
+                                    "name": "инженер СК",
+                                    "organization": {
+                                        "id": 16,
+                                        "name": "ООО \"ИФ ИнтерГазСервис\"",
+                                        "partnerId": 42
+                                    }
+                                },
+                                "representative": {
+                                    "id": 4716,
+                                    "name": "Евсеев Николай Леонидович",
+                                    "fio": "Евсеев Николай Леонидович",
+                                    "position": "Инженер СК",
+                                    "partner": {
+                                        "id": 42,
+                                        "name": "ООО \"ИФ ИнтерГазСервис\""
+                                    },
+                                    "documentsConfirms": [
+                                        {
+                                            "id": 1540,
+                                            "documentConfirm": "Приказ №0111/00-п/5 от 19.01.2023г.",
+                                            "number": null,
+                                            "date": null,
+                                            "attachments": null
+                                        },
+                                        {
+                                            "id": 7107,
+                                            "documentConfirm": "Приказ №3229-00-п от 12.12.2023г.",
+                                            "number": null,
+                                            "date": null,
+                                            "attachments": null
+                                        },
+                                        {
+                                            "id": 10306,
+                                            "documentConfirm": "Приказ №3243/00-п/221/1 от 25.12.2024г.",
+                                            "number": null,
+                                            "date": null,
+                                            "attachments": null
+                                        }
+                                    ],
+                                    "user": null,
+                                    "phone": null
+                                },
+                                "certificate": null
+                            },
+                            "powerOfAttorney": null,
+                            "signerInfo": {
+                                "name": "Евсеев Николай Леонидович",
+                                "fio": "Евсеев Н.Л.",
+                                "position": "Инженер СК",
+                                "partner": "ООО \"ИФ ИнтерГазСервис\""
+                            },
+                            "created": "2024-12-27T07:22:13+00:00",
+                            "letter_of_attorney": null,
+                            "isSignerLetter": null,
+                            "isKcp": false,
+                            "isMchd": false,
+                            "xmlSignature": null,
+                            "numberCertificate": null,
+                            "beginCertificate": null,
+                            "endCertificate": null
+                        }
+                    ],
+                    "position": null,
+                    "order": 1657,
+                    "approval_result": {
+                        "id": 20,
+                        "name": "Согласовано",
+                        "color": "#219653",
+                        "order": 9.5,
+                        "system": true,
+                        "typeId": "agreed"
+                    },
+                    "status": "created",
+                    "caption_header": null
+                },
+                {
+                    "id": 107442,
+                    "responsible": {
+                        "id": 10916,
+                        "fio": "Черданцев Д. В.",
+                        "numberNationalCertificate": null,
+                        "positions": [],
+                        "attestationLevel": null,
+                        "attestationPlace": null,
+                        "name": "Черданцев Дмитрий Витальевич",
+                        "email": "DVCh73@bk.ru",
+                        "position": "Инженер ИСК",
+                        "phone": "8-913-291-06-90",
+                        "education": null,
+                        "specialty": null,
+                        "special": null,
+                        "work_type": null,
+                        "nationalRegisterNumber": "С-42-256296",
+                        "entry_date": "2024-06-18T00:00:00+00:00",
+                        "exception_date": null,
+                        "personal_stamp_number": null,
+                        "certificate_number": null,
+                        "passportNumber": null,
+                        "passportIssuedBy": null,
+                        "passportIssuedDate": null,
+                        "address": null,
+                        "certificate_begin_date": null,
+                        "certificate_job": null,
+                        "user": {
+                            "id": 6147,
+                            "email": "DVCh73@bk.ru",
+                            "name": "Черданцев Д. В.",
+                            "fio": "Черданцев Дмитрий Витальевич",
+                            "phone": null,
+                            "role": 14,
+                            "active": true,
+                            "position": "Инженер ИСК",
+                            "division": {
+                                "id": 129,
+                                "name": "ООО \"ИФ ИнтерГазСервис\"",
+                                "organization": {
+                                    "id": 16,
+                                    "name": "ООО \"ИФ ИнтерГазСервис\"",
+                                    "partnerId": 42
+                                }
+                            },
+                            "representative": {
+                                "id": 10916,
+                                "name": "Черданцев Дмитрий Витальевич",
+                                "fio": "Черданцев Дмитрий Витальевич",
+                                "position": "Инженер ИСК",
+                                "partner": {
+                                    "id": 42,
+                                    "name": "ООО \"ИФ ИнтерГазСервис\""
+                                },
+                                "documentsConfirms": [
+                                    {
+                                        "id": 8981,
+                                        "documentConfirm": "Приказ №3229/00-п/229/1 от 12.12.2023г.",
+                                        "number": null,
+                                        "date": null,
+                                        "attachments": null
+                                    },
+                                    {
+                                        "id": 10293,
+                                        "documentConfirm": "Приказ №3243/00-п/221/1 от 25.12.2024г.",
+                                        "number": null,
+                                        "date": null,
+                                        "attachments": null
+                                    }
+                                ],
+                                "user": null,
+                                "phone": "8-913-291-06-90"
+                            },
+                            "certificate": null
+                        },
+                        "partner": {
+                            "id": 42,
+                            "FIO": null,
+                            "INN": "5903018022",
+                            "address": "Россия, Пермский край, г.Пермь, ул. Монастырская, 41",
+                            "type": 1,
+                            "name": "ООО \"ИФ ИнтерГазСервис\"",
+                            "typePartners": 1,
+                            "organization": {
+                                "id": 16,
+                                "name": "ООО \"ИФ ИнтерГазСервис\"",
+                                "partnerId": 42
+                            },
+                            "okpo": "78892063",
+                            "order": 3,
+                            "passportNumber": null,
+                            "passportIssuedBy": null,
+                            "passportIssuedDate": null,
+                            "ogrn": "1065903002780",
+                            "indexMail": "614000",
+                            "isFolder": false,
+                            "phone": "(342) 220-63-31; 220-63-32",
+                            "sro": "Саморегулируемая организация «Союз строителей Пермского края» (СРО «Союз строителей Пермского края»)",
+                            "sroInn": "5904211325",
+                            "sroOgrn": "1095900002186",
+                            "uuid": "bde78bd7-db1e-4a33-bd55-1831b9079272",
+                            "region": null,
+                            "contractDate": null,
+                            "contractNumber": null,
+                            "registrationNumber": "СРО-С-129-21122009",
+                            "registrationDate": "2017-06-05T00:00:00+00:00",
+                            "logoName": null,
+                            "comments": "000020387",
+                            "files": [],
+                            "email": null,
+                            "author": {
+                                "id": 1,
+                                "email": null,
+                                "name": "SYSTEM ADMIN",
+                                "fio": null,
+                                "phone": null,
+                                "role": null,
+                                "active": true,
+                                "position": null,
+                                "division": null,
+                                "representative": null,
+                                "certificate": null
+                            },
+                            "permissions": [],
+                            "code": "",
+                            "group": null,
+                            "organizationType": null,
+                            "parentOrganizationCode": null,
+                            "status": null,
+                            "okopf": null,
+                            "shortName": null,
+                            "kpp2": null,
+                            "oktmo": null,
+                            "okfs": null,
+                            "okved": null,
+                            "code2": null,
+                            "kpp": null,
+                            "kppSro": null,
+                            "organizationPurchasing": null,
+                            "purchaseOrganizer": null,
+                            "liquidationDate": null,
+                            "creationDate": null,
+                            "creationAuthor": {
+                                "id": 1,
+                                "name": "SYSTEM ADMIN",
+                                "email": null,
+                                "created_at": "2022-07-05 07:17:05",
+                                "updated_at": "2024-10-24 19:29:34.797459",
+                                "companyID": 1,
+                                "login": "system",
+                                "deleted": false,
+                                "parentID": null,
+                                "order": null,
+                                "FIO": null,
+                                "position": null,
+                                "phone": null,
+                                "active": true,
+                                "roleID": null,
+                                "repID": null,
+                                "act_edit": false,
+                                "active_sc": true,
+                                "ldap": false,
+                                "settings_ldap_id": null,
+                                "language": "ru",
+                                "profile_email": null,
+                                "uuid": "a6ed3fae-0950-4697-9ea6-c16e37ba1a8f",
+                                "personal_data": null,
+                                "division": null,
+                                "representative": null,
+                                "certificate": null
+                            },
+                            "modificationDate": null,
+                            "modificationAuthor": null,
+                            "name_eng": "",
+                            "short_name_eng": null,
+                            "registration_authority": null,
+                            "eso": null,
+                            "eso_date_to": null
+                        },
+                        "attachments": [
+                            {
+                                "id": 971,
+                                "name": "Приказ №3229_00-п_229_1 от 12.12.2023 (подп. со стороны ИНК и ИГС).pdf"
+                            }
+                        ],
+                        "documentsConfirms": [
+                            {
+                                "id": 8981,
+                                "documentConfirm": "Приказ №3229/00-п/229/1 от 12.12.2023г.",
+                                "number": null,
+                                "date": null,
+                                "attachments": null
+                            },
+                            {
+                                "id": 10293,
+                                "documentConfirm": "Приказ №3243/00-п/221/1 от 25.12.2024г.",
+                                "number": null,
+                                "date": null,
+                                "attachments": null
+                            }
+                        ],
+                        "welder": null
+                    },
+                    "files": [],
+                    "is_notified": false,
+                    "notification_date": "27.12.2024 06:45",
+                    "result_datetime": null,
+                    "comment": null,
+                    "responsible_sign": [],
+                    "position": null,
+                    "order": 1659,
+                    "approval_result": {
+                        "id": 19,
+                        "name": "Оповещение",
+                        "color": "#00B0F0",
+                        "order": 9,
+                        "system": true,
+                        "typeId": "notification"
+                    },
+                    "status": "created",
+                    "caption_header": null
+                }
+            ],
+            "order": 2,
+            "is_started": true,
+            "version_id": 4907054,
+            "approval_result": {
+                "id": 19,
+                "name": "Оповещение",
+                "color": "#00B0F0",
+                "order": 9,
+                "system": true,
+                "typeId": "notification"
+            },
+            "document_version_approval_result": {
+                "id": 19,
+                "name": "Оповещение",
+                "color": "#00B0F0",
+                "order": 9,
+                "system": true,
+                "typeId": "notification"
+            },
+            "status": "notification",
+            "stage": "active",
+            "captionHeader": null,
+            "createdAt": "2024-12-27T06:40:57+00:00",
+            "updatedAt": "2024-12-27T06:45:55+00:00"
+        },
+        {
+            "id": 953487,
+            "parts": [
+                {
+                    "id": 107444,
+                    "responsible": {
+                        "id": 5870,
+                        "fio": "Пнев А.С.",
+                        "numberNationalCertificate": null,
+                        "positions": [],
+                        "attestationLevel": null,
+                        "attestationPlace": null,
+                        "name": "Пнев Александр Сергеевич",
+                        "email": "pnev_as@irkutskoil.ru",
+                        "position": "Начальник ОЭТС",
+                        "phone": null,
+                        "education": null,
+                        "specialty": null,
+                        "special": null,
+                        "work_type": null,
+                        "nationalRegisterNumber": null,
+                        "entry_date": "2023-04-06T00:00:00+00:00",
+                        "exception_date": null,
+                        "personal_stamp_number": null,
+                        "certificate_number": null,
+                        "passportNumber": null,
+                        "passportIssuedBy": null,
+                        "passportIssuedDate": null,
+                        "address": null,
+                        "certificate_begin_date": null,
+                        "certificate_job": null,
+                        "user": {
+                            "id": 3699,
+                            "email": "pnev_as@irkutskoil.ru",
+                            "name": "Пнев А.С.",
+                            "fio": "Пнев Александр Сергеевич",
+                            "phone": null,
+                            "role": 15,
+                            "active": true,
+                            "position": "Начальник ОЭТС",
+                            "division": {
+                                "id": 432,
+                                "name": "ИНК",
+                                "organization": {
+                                    "id": 14,
+                                    "name": "ООО \"ИНК\"",
+                                    "partnerId": 20
+                                }
+                            },
+                            "representative": {
+                                "id": 5870,
+                                "name": "Пнев Александр Сергеевич",
+                                "fio": "Пнев Александр Сергеевич",
+                                "position": "Начальник ОЭТС",
+                                "partner": {
+                                    "id": 20,
+                                    "name": "ООО \"ИНК\""
+                                },
+                                "documentsConfirms": [
+                                    {
+                                        "id": 2452,
+                                        "documentConfirm": "Приказ №2709/00-п от 23.11.2022 г.",
+                                        "number": null,
+                                        "date": null,
+                                        "attachments": null
+                                    }
+                                ],
+                                "user": null,
+                                "phone": null
+                            },
+                            "certificate": {
+                                "id": 1384,
+                                "imprint": "DA5D6D2A2762C31B8EB96ADEAD21CD088B994506",
+                                "dateBegin": "2024-02-05T02:34:59+00:00",
+                                "dateEnd": "2025-02-05T02:44:32+00:00",
+                                "legalEntity": true
+                            }
+                        },
+                        "partner": {
+                            "id": 20,
+                            "FIO": null,
+                            "INN": "3808066311",
+                            "address": "Иркутская область, г. Иркутск, пр-т Большой Литейный,  д.4",
+                            "type": 1,
+                            "name": "ООО \"ИНК\"",
+                            "typePartners": 2,
+                            "organization": {
+                                "id": 14,
+                                "name": "ООО \"ИНК\"",
+                                "partnerId": 20
+                            },
+                            "okpo": "55547777",
+                            "order": 4,
+                            "passportNumber": null,
+                            "passportIssuedBy": null,
+                            "passportIssuedDate": null,
+                            "ogrn": "1023801010970",
+                            "indexMail": "664007",
+                            "isFolder": false,
+                            "phone": "8 (395) 221-13-52",
+                            "sro": "Ассоциация РООР СРОСБР",
+                            "sroInn": "3811126176",
+                            "sroOgrn": "1083800002868",
+                            "uuid": "29b3a957-2588-4c30-bc64-605e15d43bb4",
+                            "region": null,
+                            "contractDate": null,
+                            "contractNumber": null,
+                            "registrationNumber": "СРО-С-022-27072009",
+                            "registrationDate": "2009-12-21T00:00:00+00:00",
+                            "logoName": "INK logo CMYK электрон почта.jpg",
+                            "comments": "000002948",
+                            "files": [],
+                            "email": "",
+                            "author": null,
+                            "permissions": [],
+                            "code": null,
+                            "group": null,
+                            "organizationType": null,
+                            "parentOrganizationCode": null,
+                            "status": null,
+                            "okopf": null,
+                            "shortName": null,
+                            "kpp2": null,
+                            "oktmo": null,
+                            "okfs": null,
+                            "okved": null,
+                            "code2": null,
+                            "kpp": null,
+                            "kppSro": null,
+                            "organizationPurchasing": null,
+                            "purchaseOrganizer": null,
+                            "liquidationDate": null,
+                            "creationDate": null,
+                            "creationAuthor": {
+                                "id": 1,
+                                "name": "SYSTEM ADMIN",
+                                "email": null,
+                                "created_at": "2022-07-05 07:17:05",
+                                "updated_at": "2024-10-24 19:29:34.797459",
+                                "companyID": 1,
+                                "login": "system",
+                                "deleted": false,
+                                "parentID": null,
+                                "order": null,
+                                "FIO": null,
+                                "position": null,
+                                "phone": null,
+                                "active": true,
+                                "roleID": null,
+                                "repID": null,
+                                "act_edit": false,
+                                "active_sc": true,
+                                "ldap": false,
+                                "settings_ldap_id": null,
+                                "language": "ru",
+                                "profile_email": null,
+                                "uuid": "a6ed3fae-0950-4697-9ea6-c16e37ba1a8f"
+                            },
+                            "modificationDate": null,
+                            "modificationAuthor": null,
+                            "name_eng": null,
+                            "short_name_eng": null,
+                            "registration_authority": null,
+                            "eso": null,
+                            "eso_date_to": null
+                        },
+                        "attachments": [
+                            {
+                                "id": 412,
+                                "name": "Приказ №2709-00-п от 23.11.2022.pdf"
+                            }
+                        ],
+                        "documentsConfirms": [
+                            {
+                                "id": 2452,
+                                "documentConfirm": "Приказ №2709/00-п от 23.11.2022 г.",
+                                "number": null,
+                                "date": null,
+                                "attachments": null
+                            }
+                        ],
+                        "welder": null
+                    },
+                    "files": [],
+                    "is_notified": false,
+                    "notification_date": null,
+                    "result_datetime": null,
+                    "comment": null,
+                    "responsible_sign": [],
+                    "position": null,
+                    "order": 1658,
+                    "approval_result": null,
+                    "status": "created",
+                    "caption_header": null
+                }
+            ],
+            "order": 3,
+            "is_started": false,
+            "version_id": 4907054,
+            "approval_result": null,
+            "document_version_approval_result": {
+                "id": 19,
+                "name": "Оповещение",
+                "color": "#00B0F0",
+                "order": 9,
+                "system": true,
+                "typeId": "notification"
+            },
+            "status": "created",
+            "stage": "prepared",
+            "captionHeader": null,
+            "createdAt": "2024-12-27T06:41:55+00:00",
+            "updatedAt": "2024-12-27T06:41:55+00:00"
+        }
+    ],
+    "isStarted": true
+}
